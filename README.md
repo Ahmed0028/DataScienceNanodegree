@@ -1,6 +1,6 @@
 # Data Science Nanodegree Program 
 In this repository I will share the most important ideas and concepts of
-**[Udacity Data Science Nanodegree Program ] (https://eu.udacity.com/course/data-scientist-nanodegree--nd025)**.
+**[Udacity Data Science Nanodegree Program ](https://eu.udacity.com/course/data-scientist-nanodegree--nd025)**.
 
 
 ## Core Curriculum:
