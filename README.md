@@ -27,7 +27,7 @@ In this repository I will share the most important ideas and concepts of
 - **Summary:** 
 - **Keywords:** .
 
-#### Part 3- Data Engineering: Recommendation Engines
+#### Part 3- Data Engineering:
 - **Summary:** 
 - **Keywords:** 
 
