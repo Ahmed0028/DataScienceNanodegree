@@ -5,7 +5,7 @@ In this project, you will work with real-life data provided to us by our [Bertel
 [View Project Code](https://goo.gl/n4CCbE)
 
 
-[UdacityReview](https://github.com/Ahmed0028/DataScienceNanodegree/blob/master/Unsupervised%20learning/Project02/Udacity%20Reviews%20copy.pdf)
+[Udacity Review](https://github.com/Ahmed0028/DataScienceNanodegree/blob/master/Unsupervised%20learning/Project02/Udacity%20Reviews%20copy.pdf)
 
 ### What will I need to install?
 It is highly recommended that you use the project workspace to complete and submit this project. Should you decide to download the data, you will need to remove it from your computer via the agreement with Arvato Bertlesmann. If you choose to use your machine to complete this project, below are a list of the requirements.
