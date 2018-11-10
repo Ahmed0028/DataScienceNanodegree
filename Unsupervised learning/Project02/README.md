@@ -2,6 +2,10 @@
 ## Project Overview
 In this project, you will work with real-life data provided to us by our [Bertelsmann partners](https://www.bertelsmann.com/#st-1)  [AZ Direct](https://www.az-direct.com/site/) and [Arvato Finance Solution](https://www.arvato.com/us-en/solutions/financial-solutions.html). The data here concerns a company that performs mail-order sales in Germany. Their main question of interest is to identify facets of the population that are most likely to be purchasers of their products for a mailout campaign. Your job as a data scientist will be to use unsupervised learning techniques to organize the general population into clusters, then use those clusters to see which of them comprise the main user base for the company. Prior to applying the machine learning methods, you will also need to assess and clean the data in order to convert the data into a usable form.
 
+[View Project Code](https://goo.gl/n4CCbE)
+
+
+[Udacity Review](https://github.com/Ahmed0028/DataScienceNanodegree/blob/master/Supervised%20learning/Project01/Udacity%20Reviews-compressed.pdf)
 
 ### What will I need to install?
 It is highly recommended that you use the project workspace to complete and submit this project. Should you decide to download the data, you will need to remove it from your computer via the agreement with Arvato Bertlesmann. If you choose to use your machine to complete this project, below are a list of the requirements.
