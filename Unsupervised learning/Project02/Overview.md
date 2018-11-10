@@ -6,11 +6,12 @@ It is highly recommended that you use the project workspace to complete and subm
 
 This project uses Python 3 and is designed to be completed through the Jupyter Notebooks IDE. It is highly recommended that you use the Anaconda distribution to install Python, since the distribution includes all necessary Python libraries as well as Jupyter Notebooks. The following libraries are expected to be used in this project:
 
-NumPy
-pandas
-Sklearn / scikit-learn
-Matplotlib (for data visualization)
-Seaborn (for data visualization)
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [scikit-learn](http://scikit-learn.org/stable/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn ](https://seaborn.pydata.org/)
+
 
 ## Why this project?
 The unsupervised learning branch of machine learning is key in the organization of large and complex datasets. While unsupervised learning lies in contrast to supervised learning in the fact that unsupervised learning lacks objective output classes or values, it can still be important in converting the data into a form that can be used in a supervised learning task. Dimensionality reduction techniques can help surface the main signals and associations in your data, providing supervised learning techniques a more focused set of features upon which to apply their work. Clustering techniques are useful for understanding how the data points themselves are organized. These clusters might themselves be a useful feature in a directed supervised learning task. This project will give you hands-on experience with a real-life task that makes use of these techniques, focusing on the unsupervised work that goes into understanding a dataset.
